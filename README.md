@@ -1,3 +1,34 @@
+# To-Do List
+A group assignment creating a CRUD application to check in/check out pets from a pet hotel.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. Download .zip of the project
+2. Open .sql file and paste into Postico to create tables
+3. npm install
+4. npm start
+5. type localhost:5000 into a browser
+
+## Authors
+- Craig Baird
+- Anna Springfield
+- Kevin Dahlberg
+
+## Technologies Used
+- JavaScript
+- jQuery
+- Node
+- SQL
+
+## Assumptions
+
+You are using Postico
+You installed Postgres with homebrew
+Postgres is currently running on your computer
+
+## Instructions I was given:
+
 CRUD Up Pet Hotel
 Your team has started a new business in Uptown for dog-enthusiasts that also need to vacation without their beloved pets.
 
