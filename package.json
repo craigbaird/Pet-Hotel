@@ -1,0 +1,26 @@
+{
+  "name": "pet-hotel",
+  "version": "1.0.0",
+  "description": "PRIME pet hotel assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDahlberg/pet-hotel.git"
+  },
+  "author": "Team Awesome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinDahlberg/pet-hotel/issues"
+  },
+  "homepage": "https://github.com/KevinDahlberg/pet-hotel#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "pg": "^6.1.5"
+  }
+}

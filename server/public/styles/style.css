@@ -1,0 +1,56 @@
+.ownersAndPets {
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+.ownerReg {
+  margin-left: 40px;
+}
+.firstName {
+  margin-left: 40px;
+  display: inline-block;
+}
+.OwnRegFirstName {
+  margin-left: 40px;
+  display: inline-block;
+  margin-right: 20px;
+}
+.lastName {
+  display: inline-block;
+}
+.pets {
+margin-left: 40px;
+}
+.ownerName{
+  margin-left: 40px;
+  display: inline-block;
+  margin-right: 10px;
+}
+#dropDown {
+  width: 150px;
+  height: 30px;
+  
+  display: inline-block;
+}
+.petName {
+  display: inline-block;
+  margin-left: 20px;
+}
+.breed {
+  display: inline-block;
+}
+.color {
+  margin-left: 337px;
+  display: inline-block;
+  margin-bottom: 40px;
+}
+.petsColor{
+  display: inline-block;
+}
+table {
+  margin-left: 40px;
+}
+thead {
+  margin-top: 20px;
+  background-color: grey;
+  border: solid 3px;
+}

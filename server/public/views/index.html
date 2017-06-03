@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script type="text/javascript" src = "vendors/jquery.js">
+    </script>
+    <script type="text/javascript" src = "scripts/client.js">
+    </script>
+    <link type="text/css" rel="stylesheet" href="/styles/style.css">
+  </head>
+  <body>
+    <h1 class="ownersAndPets">Owners and Pets</h1>
+    <h2 class="ownerReg"> Owner Registration</h2>
+      <p class="firstName">First Name</p>
+        <input class="OwnRegFirstName"></input>
+      <p class="lastName">Last Name</p>
+        <input class="OwnRegLastName"></input>
+      <button class="OwnRegBtn">Register</button>
+      <br>
+    <h2 class ="pets">Pets</h2>
+      <p class="ownerName">Owner name</p>
+      <div id="dropDown"></div>
+      <p class= "petName">Pet Name</p>
+        <input class="PetsPetName"></input>
+      <p class="breed">Breed</p>
+        <input class="PetsBreed"></input>
+      <button class="AddPetBtn">Add Pet</button>
+      <br>
+      <p class ="color">Color</p>
+        <input class="PetsColor"></input>
+    <table>
+      <thead>
+        <tr>
+        <th id="owner">Owner </th>
+        <th id="pet">Pet </th>
+        <th id="breed">Breed </th>
+        <th id="color">Color </th>
+        <th id="update">Update </th>
+        <th id="delete">Delete </th>
+        <th id="checkInOut">Check In/Out </th>
+      </tr>
+      </thead>
+      <tbody id="pets">
+      </tbody>
+    </table>
+
+  </body>
+</html>
